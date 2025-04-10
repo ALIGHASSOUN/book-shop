@@ -1,0 +1,12 @@
+connect(
+    'mongodb+srv://alighassoun9:VYPfuGnbL9p44Wjk@cluster0.z4y35.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+  )
+  66f480f225b74ea84e56732c
+
+  let transporter = nodemailer.createTransport({
+  service: "gmail",
+  auth: {
+    user: "alighassoun9@gmail.com", // Your Gmail address
+    pass: "alnx taev ayvw zgxd", // Your app password
+  },
+});
